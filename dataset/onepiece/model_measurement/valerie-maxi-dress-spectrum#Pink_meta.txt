@@ -1,0 +1,1 @@
+{"Grazi": {"height": "172.0", "bust": "86.0", "waist": "66.0", "hips": "99.0", "model size": "10"}, "Monique": {"height": "175.5", "bust": "90.0", "waist": "72.0", "hips": "98.0", "model size": "10"}, "Jess": {"height": "176.0", "bust": "99.0", "waist": "78.0", "hips": "112.0", "model size": "12"}}

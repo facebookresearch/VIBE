@@ -1,0 +1,1 @@
+{"Amanda": {"bust": "86.0", "waist": "67.0", "height": "178.0", "hips": "89.0", "size": "10"}, "Stacey": {"bust": "101.0", "waist": "80.0", "height": "169.0", "hips": "98.0", "size": "12"}, "Riina": {"bust": "86.0", "waist": "64.0", "height": "175.0", "hips": "89.0", "size": "10"}, "Anna Maria": {"bust": "84.0", "waist": "64.0", "height": "179.0", "hips": "90.0", "size": "10"}}

@@ -1,0 +1,1 @@
+{"12": [{"dimension_id": "7", "dimension_name": "Length - shoulder to hem", "value": "105cm"}]}

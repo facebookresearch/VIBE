@@ -1,0 +1,1 @@
+{"Miranda": {"bust": "86.0", "waist": "61.0", "height": "171.0", "hips": "88.0", "size": "10"}, "Monique": {"bust": "81.0", "waist": "69.0", "height": "175.0", "hips": "90.0", "size": "10"}, "Ljubenka": {"bust": "104.0", "waist": "96.0", "height": "180.0", "hips": "121.0", "size": "18"}, "Jess": {"bust": "99.0", "waist": "78.0", "height": "176.0", "hips": "112.0", "size": "12"}}

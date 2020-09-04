@@ -1,0 +1,1 @@
+{"12": [{"dimension_id": "15", "dimension_name": "Sleeve Length - neck to hem", "value": "74cm"}, {"dimension_id": "7", "dimension_name": "Length - shoulder to hem", "value": "66cm"}]}

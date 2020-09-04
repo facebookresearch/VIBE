@@ -1,0 +1,1 @@
+{"Mercy": {"height": "173.0", "bust": "105.0", "waist": "86.0", "hips": "112.0", "model size": "12"}, "Fiona": {"height": "181.0", "bust": "101.0", "waist": "83.0", "hips": "115.0", "model size": "16"}, "Jess": {"height": "176.0", "bust": "99.0", "waist": "78.0", "hips": "112.0", "model size": "10"}}

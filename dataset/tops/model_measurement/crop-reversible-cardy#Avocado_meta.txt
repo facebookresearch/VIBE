@@ -1,0 +1,1 @@
+{"Gemma": {"bust": "86.5", "waist": "70.0", "height": "176.0", "hips": "91.5", "size": "S"}, "Stacey": {"bust": "101.0", "waist": "80.0", "height": "169.0", "hips": "98.0", "size": "M"}}

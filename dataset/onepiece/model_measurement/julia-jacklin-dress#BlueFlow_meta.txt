@@ -1,0 +1,1 @@
+{"Anneliese": {"height": "178.0", "bust": "84.0", "waist": "64.0", "hips": "91.0", "model size": "10"}, "Summer": {"height": "176.0", "bust": "84.0", "waist": "64.0", "hips": "96.0", "model size": "10"}}

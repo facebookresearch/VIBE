@@ -1,0 +1,1 @@
+{"Marnee": {"bust": "81.0", "waist": "64.0", "height": "178.0", "hips": "89.0", "size": "S"}, "Georgia": {"bust": "81.0", "waist": "61.0", "height": "170.0", "hips": "89.0", "size": "S"}, "Mae-Lee": {"bust": "114.0", "waist": "94.0", "height": "173.0", "hips": "119.0", "size": "XL"}}

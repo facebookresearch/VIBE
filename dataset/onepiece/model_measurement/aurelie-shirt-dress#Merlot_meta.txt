@@ -1,0 +1,1 @@
+{"Miranda": {"height": "171.0", "bust": "86.0", "waist": "61.0", "hips": "88.0", "model size": "10"}, "Laura": {"height": "177.0", "bust": "102.0", "waist": "75.0", "hips": "107.0", "model size": "12"}, "Helen": {"height": "176.5", "bust": "86.5", "waist": "63.5", "hips": "89.0", "model size": "10"}}

@@ -1,0 +1,1 @@
+{"Palatina": {"bust": "97.0", "waist": "84.0", "height": "178.0", "hips": "109.0", "size": "14"}, "Summer": {"bust": "84.0", "waist": "64.0", "height": "176.0", "hips": "96.0", "size": "10"}, "Anna": {"bust": "84.0", "waist": "72.0", "height": "175.0", "hips": "98.0", "size": "10"}}

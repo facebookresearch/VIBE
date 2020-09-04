@@ -1,0 +1,1 @@
+{"Anna": {"height": "175.0", "bust": "84.0", "waist": "72.0", "hips": "98.0", "model size": "10"}}

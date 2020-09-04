@@ -1,0 +1,1 @@
+{"Natalia": {"bust": "97.0", "waist": "78.0", "height": "170.0", "hips": "101.0", "size": "OneSize"}, "Katie": {"bust": "84.0", "waist": "63.5", "height": "174.0", "hips": "89.0", "size": "OneSize"}, "Shareefa": {"bust": "101.0", "waist": "103.0", "height": "179.0", "hips": "128.0", "size": "OneSize"}}

@@ -1,0 +1,1 @@
+{"OneSize": [{"dimension_id": "1", "dimension_name": "Bust", "value": "130cm"}, {"dimension_id": "3", "dimension_name": "Waist", "value": "140cm"}, {"dimension_id": "7", "dimension_name": "Length - shoulder to hem", "value": "59-69cm"}, {"dimension_id": "15", "dimension_name": "Sleeve Length - neck to hem", "value": "70cm"}]}

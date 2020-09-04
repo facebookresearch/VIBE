@@ -1,0 +1,1 @@
+{"M": [{"dimension_id": "1", "dimension_name": "Bust", "value": "90cm"}, {"dimension_id": "3", "dimension_name": "Waist", "value": "102cm"}, {"dimension_id": "5", "dimension_name": "Hip", "value": "102cm"}, {"dimension_id": "7", "dimension_name": "Length - shoulder to hem", "value": "100cm"}]}

@@ -1,0 +1,1 @@
+{"Madeline": {"bust": "84.0", "waist": "61.0", "height": "179.0", "hips": "89.0", "size": "S"}, "Jess": {"bust": "99.0", "waist": "78.0", "height": "176.0", "hips": "112.0", "size": "L"}, "Sophie": {"bust": "113.0", "waist": "104.0", "height": "176.0", "hips": "132.0", "size": "XXL"}, "Charlotte": {"bust": "88.0", "waist": "67.0", "height": "169.0", "hips": "93.0", "size": "S"}}

@@ -1,0 +1,1 @@
+{"Summer": {"bust": "84.0", "waist": "64.0", "height": "176.0", "hips": "96.0", "size": "10"}, "Laura": {"bust": "101.0", "waist": "76.0", "height": "177.0", "hips": "107.0", "size": "12"}}

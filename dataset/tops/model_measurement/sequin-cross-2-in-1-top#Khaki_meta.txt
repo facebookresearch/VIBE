@@ -1,0 +1,1 @@
+{"Shadae": {"bust": "86.0", "waist": "66.0", "height": "177.0", "hips": "91.0", "size": "S"}, "Gemma": {"bust": "86.5", "waist": "70.0", "height": "176.0", "hips": "91.5", "size": "S"}}

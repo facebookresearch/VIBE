@@ -1,0 +1,1 @@
+{"Rosaline": {"bust": "96.0", "waist": "80.0", "height": "175.0", "hips": "107.0", "size": "14"}, "Palatina": {"bust": "97.0", "waist": "84.0", "height": "178.0", "hips": "109.0", "size": "14"}, "Anna": {"bust": "84.0", "waist": "72.0", "height": "175.0", "hips": "98.0", "size": "10"}}

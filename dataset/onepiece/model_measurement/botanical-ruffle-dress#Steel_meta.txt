@@ -1,0 +1,1 @@
+{"Monique": {"height": "175.0", "bust": "81.0", "waist": "69.0", "hips": "90.0", "model size": "S/10"}, "Tia": {"height": "176.0", "bust": "104.0", "waist": "92.0", "hips": "111.0", "model size": "L/14"}, "Chesska": {"height": "173.0", "bust": "89.0", "waist": "69.0", "hips": "94.0", "model size": "S/10"}}
